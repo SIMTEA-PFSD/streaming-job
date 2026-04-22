@@ -1,1 +1,23 @@
-[0m[[0m[0mdebug[0m] [0m[0mJar uptodate: C:\Users\ThinkPad\streaming-job\target\scala-2.12\streaming-job_2.12-0.1.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\ThinkPad\streaming-job\target\scala-2.12\streaming-job_2.12-0.1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	streaming[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ThinkPad\streaming-job\target\scala-2.12\classes\streaming[0m
+[0m[[0m[0mdebug[0m] [0m[0m	streaming\config[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ThinkPad\streaming-job\target\scala-2.12\classes\streaming\config[0m
+[0m[[0m[0mdebug[0m] [0m[0m	streaming\config\BatchConfig$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ThinkPad\streaming-job\target\scala-2.12\classes\streaming\config\BatchConfig$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	streaming\config\BatchConfig.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ThinkPad\streaming-job\target\scala-2.12\classes\streaming\config\BatchConfig.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	streaming\config\StreamingConfig$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ThinkPad\streaming-job\target\scala-2.12\classes\streaming\config\StreamingConfig$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	streaming\config\StreamingConfig.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ThinkPad\streaming-job\target\scala-2.12\classes\streaming\config\StreamingConfig.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	streaming\SparkBatchJob$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ThinkPad\streaming-job\target\scala-2.12\classes\streaming\SparkBatchJob$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	streaming\SparkBatchJob.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ThinkPad\streaming-job\target\scala-2.12\classes\streaming\SparkBatchJob.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	streaming\SparkStreamingJob$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ThinkPad\streaming-job\target\scala-2.12\classes\streaming\SparkStreamingJob$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	streaming\SparkStreamingJob.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ThinkPad\streaming-job\target\scala-2.12\classes\streaming\SparkStreamingJob.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

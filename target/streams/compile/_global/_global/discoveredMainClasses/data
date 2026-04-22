@@ -1,1 +1,1 @@
-["streaming.SparkStreamingJob"]
+["streaming.SparkBatchJob","streaming.SparkStreamingJob"]
