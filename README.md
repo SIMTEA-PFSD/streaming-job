@@ -2,6 +2,7 @@
  Para ejecutar todos los microservicios:
 
 .\bajar-todo.ps1 -Clean
+
 .\levantar-todo.ps1
 
 En cada una de las raíces de los microservicios ejecutar
