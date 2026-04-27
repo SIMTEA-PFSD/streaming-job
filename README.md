@@ -13,7 +13,9 @@ Para probar spark (puerto 4040):
 .\levantar-spark.ps1    
 
 Aquí es necesario tener una carpeta en la raíz del equipo llamada tmp/spark-batch-otput
+
 .\levantar-spark.ps1 -Mode batch   
 
 En ambos pedirá:
+
 runMain streaming.SparkStreamingJob
