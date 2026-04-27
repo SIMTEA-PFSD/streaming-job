@@ -6,6 +6,7 @@ import org.apache.spark.sql.streaming.{OutputMode, Trigger}
 import streaming.config.StreamingConfig
 
 /**
+ * No sabíamos usarlo, así que la IA nos ayudó con un ejemplo y lo adaptamos
  * ═══════════════════════════════════════════════════════════
  *  JOB DE SPARK STRUCTURED STREAMING
  * ═══════════════════════════════════════════════════════════

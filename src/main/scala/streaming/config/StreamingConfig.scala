@@ -1,7 +1,7 @@
 package streaming.config
 
 case class StreamingConfig(
-  kafkaBootstrap: String  = "localhost:9093",
+  kafkaBootstrap: String  = sys.env.getOrElse("KAFKA_BOOTSTRAP", "localhost:9092"),
   topicos: List[String]   = List(
     "registro.pasajero",
     "equipaje.bodega",

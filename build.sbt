@@ -33,3 +33,11 @@ javaOptions ++= Seq(
 )
 
 fork := true
+
+// Aliases para arrancar sin lidiar con el quoting de sbt en Windows.
+// Con estos podemos hacer:
+//    sbt runStreaming
+//    sbt runBatch
+// sin comillas ni ';' - son una sola palabra, PowerShell/cmd no los rompe.
+addCommandAlias("runStreaming", "runMain streaming.SparkStreamingJob")
+addCommandAlias("runBatch",     "runMain streaming.SparkBatchJob")

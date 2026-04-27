@@ -7,9 +7,7 @@ import java.time.LocalDateTime
 import java.time.format.DateTimeFormatter
 
 /**
- * ═══════════════════════════════════════════════════════════
- *  JOB DE SPARK BATCH — ANÁLISIS HISTÓRICO
- * ═══════════════════════════════════════════════════════════
+ * No sabíamos usarlo, así que la IA nos ayudó con un ejemplo y lo adaptamos
  *
  *  Lee los datos persistidos en PostgreSQL (Dispatcher DB)
  *  y genera un reporte consolidado del comportamiento del
